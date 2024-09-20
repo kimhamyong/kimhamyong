@@ -27,10 +27,4 @@
   ![splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
   ![gcp](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![burgerking](https://img.shields.io/badge/Burger%20King-D62300?style=for-the-badge&logo=burger-king&logoColor=white)
-
-  <br/>
-  <br/>
-  <br/>
-  
-  dkgk2233@gmail.com
 </div>
