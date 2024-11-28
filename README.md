@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kimhamyong/kimhamyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### Hi! I'm hayoung! 🗿
 
-Here are some ideas to get you started:
+  **Welcome to my GitHub! Here, you'll find details about my projects.**
+  <br/>
+  <br/>
+  <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **I'm interested in solving real-world problems using 'Computer Communication',**
+  <br/>
+  **and I love learning about everything 🥯, so I always try to explore a variety of fields.**
+  <br/>
+  
+  Reach out 👉 **dkgk2233@gmail.com** 
+</div>
